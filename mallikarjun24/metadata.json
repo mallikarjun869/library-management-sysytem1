@@ -1,0 +1,6 @@
+{
+  "name": "KLE Library",
+  "description": "A modern Library Management System (KLE Library) inspired by Amazon's design, featuring specialized portals for Students, Employees, and Admins to manage and explore a vast collection of books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
